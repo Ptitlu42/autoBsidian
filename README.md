@@ -58,5 +58,5 @@ SYNC_INTERVAL=300
 python obsidian_sync.py
 ```
 
-The script will automatically compare local and remote Obsidian folders at the interval specified in .env.
+The script will automatically compare local and remote Obsidian folders at the interval specified in *.env*.
  If changes are detected, it will perform a pull or push accordingly.
