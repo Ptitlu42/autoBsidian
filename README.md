@@ -43,9 +43,9 @@ git config --global user.email "your@email.com"
 ```env
 
 LOCAL_PATH=/path/to/obsidian/local
-REMOTE_PATH= /path/to/obsidian/remote
+REMOTE_PATH=/path/to/obsidian/remote
 REMOTE_URL=https://github.com/your-username/obsidian-notes.git
-SYNC_INTERVAL= 300  
+SYNC_INTERVAL=300  
 
 ```
 
