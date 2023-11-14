@@ -55,7 +55,7 @@ SYNC_INTERVAL=300
 
 ```bash
 
-python obsidian_sync.py
+python /src/main.py
 ```
 
 The script will automatically compare local and remote Obsidian folders at the interval specified in *.env*.
